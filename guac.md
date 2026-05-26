@@ -1,4 +1,10 @@
-#guacmole
+# guacamole
+
 ## ingredients
+
+* avocado
+* lemon
+* salt
+
 ## instructions
 
