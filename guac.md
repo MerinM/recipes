@@ -3,8 +3,9 @@
 ## ingredients
 
 * avocado
-* lemon
+* lime
 * salt
+* bacon bites
 
 ## instructions
 
